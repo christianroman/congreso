@@ -37,6 +37,13 @@ Licencia
 
 MIT
 
+Referencias
+-
+
+ - http://codeandomexico.org/proyectos/21
+ - http://sitl.diputados.gob.mx
+ - http://sil.gobernacion.gob.mx
+
 [Backend]: https://github.com/chroman/congreso-backend
 [congreso-api]: https://github.com/chroman/congreso-api
   
