@@ -3,7 +3,7 @@ Propuesta para #app115
 
 Aplicacion para dispositivos moviles iPhone (iOS 6)
 
-![Alt text](https://github.com/chroman/congreso/tree/master/app115.png "App115")
+![Alt text](https://github.com/chroman/congreso/blob/master/app115.png "App115")
 
 Caracteristicas
 -
