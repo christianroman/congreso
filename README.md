@@ -8,7 +8,7 @@ Aplicacion para dispositivos moviles iPhone (iOS 6)
 Caracteristicas
 -
 
-  - Backend y base de datos propios.
+  - [Backend] y base de datos propios.
   - Listado de legisladores.
   - Detalle de legislador, comisiones, iniciativas, asistencias, votaciones, telefono, etc.
   - Listado de comisiones y miembros pertenecientes.
@@ -37,5 +37,6 @@ Licencia
 
 MIT
 
+[Backend]: https://github.com/chroman/congreso-backend
 [congreso-api]: https://github.com/chroman/congreso-api
   
