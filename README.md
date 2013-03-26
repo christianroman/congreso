@@ -12,6 +12,7 @@ Caracteristicas
   - Listado de legisladores.
   - Detalle de legislador, comisiones, iniciativas, asistencias, votaciones, telefono, etc.
   - Listado de comisiones y miembros pertenecientes.
+  - Listado de partidos y miembros pertenecientes.
   - Localizacion de diputados y senadores dependiendo tu ubicación.  
 
 Version
