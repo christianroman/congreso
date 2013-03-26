@@ -13,7 +13,8 @@ Caracteristicas
   - Detalle de legislador, comisiones, iniciativas, asistencias, votaciones, telefono, etc.
   - Listado de comisiones y miembros pertenecientes.
   - Listado de partidos y miembros pertenecientes.
-  - Localizacion de diputados y senadores dependiendo tu ubicación.  
+  - Localizacion de diputados y senadores dependiendo tu ubicación.
+  - La API con Sinatra esta diseñada para hacer web crawling a la pagina oficial de diputados y obtener comisiones, iniciativas, asistencias y votaciones. ([congreso-api])
 
 Version
 -
@@ -35,4 +36,6 @@ Licencia
 -
 
 MIT
+
+[congreso-api]: https://github.com/chroman/congreso-api
   
