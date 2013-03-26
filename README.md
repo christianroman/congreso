@@ -10,7 +10,7 @@ Caracteristicas
 
   - Backend y base de datos propios.
   - Listado de legisladores.
-  - Detalle de legislador, comisiones, iniciativas, asistencias, telefono, etc.
+  - Detalle de legislador, comisiones, iniciativas, asistencias, votaciones, telefono, etc.
   - Listado de comisiones y miembros pertenecientes.
   - Localizacion de diputados y senadores dependiendo tu ubicación.  
 
